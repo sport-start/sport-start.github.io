@@ -2,56 +2,56 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Супер кидс
-    i18n: company_a
+    #i18n: company_a
   desc:
     detail: гимнастика
-    i18n: company_a_desc
+    #i18n: company_a_desc
   date:
     detail: 2.8 - 4 года
-    i18n: company_a_date
+    #i18n: company_a_date
   job:
     detail: Начальная группа
-    i18n: company_a_job
+    #i18n: company_a_job
   icon: fa-check
 
 - name:
     detail: Художественная/эстетическая гимнастика
-    i18n: company_b
+    #i18n: company_b
   desc:
     detail: Художественная гимнастика, эстетическая гимнастика
-    i18n: company_b_desc
+    #i18n: company_b_desc
   date:
     detail: 5 - 7 лет
-    i18n: company_b_date
+    #i18n: company_b_date
   job:
     detail: Младшая группа
-    i18n: company_b_job
+    #i18n: company_b_job
   icon: fa-check
 
 - name:
     detail: Хочу шпагат 18+
-    i18n: company_c
+    #i18n: company_c
   desc:
     detail: Стретчинг для взрослых
-    i18n: company_c_desc
+    #i18n: company_c_desc
   date:
     detail: 18+ лет
-    i18n: company_c_date
+    #i18n: company_c_date
   job:
     detail: Взрослая группа
-    i18n: company_c_job
+    #i18n: company_c_job
   icon: fa-check
   
   - name:
     detail: Фитнес с бэби
-    i18n: company_d
+    #i18n: company_d
   desc:
     detail: Для Мам и малышей
-    i18n: company_d_desc
+    #i18n: company_d_desc
   date:
     detail: 0+
-    i18n: company_d_date
+    #i18n: company_d_date
   job:
     detail: Мамы с малышами
-    i18n: company_d_job
+    #i18n: company_d_job
   icon: fa-check
