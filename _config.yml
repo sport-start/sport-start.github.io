@@ -37,7 +37,7 @@ ga:
   id: UA-93473370-3
 go: 
 gio: 
-donation: true
+donation: false
 index_carousel: true
 blog_carousel: true
 sass:
