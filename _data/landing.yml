@@ -33,6 +33,6 @@
 
 - id: links
   i18n: nav.link
-  name: Ссылки
+  name: Контакты
   tpl: links.html
   css: contact
