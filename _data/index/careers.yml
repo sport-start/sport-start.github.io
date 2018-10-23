@@ -1,6 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
+- name:
+    detail: Супер кидс
+    #i18n: company_a
+  desc:
+    detail: гимнастика
+    #i18n: company_a_desc
+  date:
+    detail: 2.8 - 4 года
+    #i18n: company_a_date
+  job:
+    detail: Начальная группа
+    #i18n: company_a_job
+  icon: fa-check
+
+- name:
+    detail: Художественная/эстетическая гимнастика
+    #i18n: company_b
+  desc:
+    detail: Художественная гимнастика, эстетическая гимнастика
+    #i18n: company_b_desc
+  date:
+    detail: 5 - 7 лет
+    #i18n: company_b_date
+  job:
+    detail: Младшая группа
+    #i18n: company_b_job
+  icon: fa-check
 
 - name:
     detail: Супер кидс
