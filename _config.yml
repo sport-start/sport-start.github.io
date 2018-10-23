@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-cube
     - name: fa-chevron-circle-down
-  desc: Гимнастика для детей в г. Смоленске.  # Describe yourself.
+  desc: 123.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
