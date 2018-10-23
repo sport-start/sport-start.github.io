@@ -19,11 +19,11 @@ author:
   last_name: Старт
   avatar: "/static/assets/img/landing/avatar.svg"
   github_username: sport-start
-  linkedin_id: jarrekk
-  facebook_username: jiakunnj
-  twitter_username: jiakun614
-  email: me@jarrekk.com
-  cv: http://cv.jarrekk.com
+  #linkedin_id: jarrekk
+  #facebook_username: jiakunnj
+  #twitter_username: jiakun614
+  email: startstretchsport@gmail.com
+  cv: #http://cv.jarrekk.com
   skill_icon1:
   - name: fa-hand-o-down
   - name: fa-arrow-down
@@ -34,7 +34,7 @@ author:
 disqus:
   name: sport-start
 ga:
-  id: UA-93473370-3
+  id: UA-127973025-1
 go: 
 gio: 
 donation: false
