@@ -18,9 +18,10 @@ author:
   first_name: Центр спортивного развития
   last_name: Старт
   avatar: "/static/assets/img/landing/avatar.svg"
-  github_username: sport-start
+  #github_username: sport-start
   email: startstretchsport@gmail.com
-  cv: 
+  VK: 
+  #cv: 
   skill_icon1:
   - name: fa-hand-o-down
   - name: fa-arrow-down
