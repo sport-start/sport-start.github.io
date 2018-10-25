@@ -1,8 +1,7 @@
 ---
 title: 3 Steps (2 minutes) to Setup Your Personal Website with Jalpc
 date: 2017-01-31 00:00:00 Z
-categories:
-- classes
+categories: [classes, games]
 tags:
 - Jalpc
 - Jekyll
