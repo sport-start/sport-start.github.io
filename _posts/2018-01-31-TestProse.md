@@ -2,12 +2,11 @@
 title: 3 Steps
 date: 2018-01-31 00:00:00 Z
 categories:
-- classes
-posting: true
-layout: post
+- games
 keywords: prose
 desc: 3 Steps
 icon: icon-html
+layout: post
 ---
 
 ## A New Post
