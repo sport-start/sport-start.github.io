@@ -3,10 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Расписание
   i18n: timetable
+  url: /blog/contacts/
   #gh_user: sport-start
   #repo: sport-start
   img: /static/assets/img/landing/jekyll.png
-  desc: По этой ссылке вы найдете расписание занятий для интересующей Вас группы.
+  desc: По этой ссылке вы найдете расписание занятий.
 
 - name: Галерея
   i18n: gallery
