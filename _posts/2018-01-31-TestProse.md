@@ -1,7 +1,8 @@
 ---
 title: 3 Steps
 date: 2018-01-31 00:00:00 Z
-categories: "classes"
+categories:
+- classes
 posting: true
 layout: post
 keywords: prose
