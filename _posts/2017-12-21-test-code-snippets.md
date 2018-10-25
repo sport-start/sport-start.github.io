@@ -1,15 +1,15 @@
 ---
-layout: post
-keywords: 'Jalpc,Jekyll,gh-pages,website,blog,easy'
-date: '2017-12-21T00:00:00.000Z'
-desc: Quick test on writing code snippets in a blog post
 title: code snippet test
-tags:
-  - Jalpc
-  - Jekyll
-icon: icon-html
+date: 2017-12-21 00:00:00 Z
 categories:
-  - HTML
+- HTML
+tags:
+- Jalpc
+- Jekyll
+layout: post
+keywords: Jalpc,Jekyll,gh-pages,website,blog,easy
+desc: Quick test on writing code snippets in a blog post
+icon: icon-html
 ---
 
 # 2017-12-21-test-code-snippets

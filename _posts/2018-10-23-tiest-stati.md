@@ -1,12 +1,12 @@
 ---
 title: Тест статьи
-date: '2018-10-23T11:45:00.000Z'
-permalink: /DATABASE/
+date: 2018-10-23 11:45:00 Z
+permalink: "/DATABASE/"
 categories:
-  - DATABASE
+- DATABASE
 tags:
-  - тест
-  - Jekyll
+- тест
+- Jekyll
 layout: post
 ---
 

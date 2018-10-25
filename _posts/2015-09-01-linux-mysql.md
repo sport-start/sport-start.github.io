@@ -1,14 +1,14 @@
 ---
-layout: post
-keywords: 'linux,mysql,安装,install'
-date: '2015-09-01T00:00:00.000Z'
-desc: Linux源码安装MySQL
 title: Linux安装mysql-源码安装
-tags:
-  - MySQL
-icon: fa-database
+date: 2015-09-01 00:00:00 Z
 categories:
-  - Database
+- Database
+tags:
+- MySQL
+layout: post
+keywords: linux,mysql,安装,install
+desc: Linux源码安装MySQL
+icon: fa-database
 ---
 
 # 2015-09-01-linux-mysql
