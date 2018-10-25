@@ -4,16 +4,16 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Занятия
-  href: /python/
+  href: /classes/
 
 - name: Соревнования
-  href: /linux/
+  href: /games/
 
 - name: Галерея
-  href: /html/
+  href: /gallery/
 
 - name: Контакты
-  href: /database/
+  href: /contacts/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
