@@ -19,6 +19,6 @@
 
 - name: Реквизиты
   i18n: requisite
-  url: /contacts/
+  url: /contacts/2018/10/26/requisites.html
   img: /static/assets/img/landing/img-req-blue.svg
   desc: Реквизиты для оплаты.
