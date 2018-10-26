@@ -1,13 +1,13 @@
 ---
 published: 'true'
-title: С занятий
-date: 2018-03-03T08:22:00.000Z
+title: Реквизиты для оплаты
+date: 2018-10-26T08:22:00.000Z
 categories:
-  - Gallery
+  - Contacts
 layout: post
-desc: Фотографии с занятий
+desc: Реквизиты для оплаты
 icon: fa-file-text
 ---
-## Фотографии с занятий
+## Банковские реквизиты для оплаты
 
-Скоро здесь появятся фотографии.
+<img src="{{ site.img_path }}/contacts/requisites.jpg" width="75%">

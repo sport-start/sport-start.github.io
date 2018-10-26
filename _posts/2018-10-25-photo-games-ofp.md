@@ -10,4 +10,26 @@ icon: fa-file-text
 ---
 ## Фотографии с соревнований по ОФП
 
-Скоро здесь появятся фотографии.
+<img src="{{ site.img_path }}/gallery/games/photo-games-1.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-2.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-3.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-4.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-5.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-6.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-7.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-8.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-9.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-10.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-11.jpg" width="75%">
+
+<img src="{{ site.img_path }}/gallery/games/photo-games-12.jpg" width="75%">

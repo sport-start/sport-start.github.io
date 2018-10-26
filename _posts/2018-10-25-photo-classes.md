@@ -10,8 +10,6 @@ icon: fa-file-text
 ---
 ## Фотографии с занятий
 
-Скоро здесь появятся фотографии.
-
 <img src="{{ site.img_path }}/gallery/classes/photo-classes-1.jpg" width="75%">
 
 <img src="{{ site.img_path }}/gallery/classes/photo-classes-2.jpg" width="75%">
