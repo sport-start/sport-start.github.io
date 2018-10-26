@@ -1,18 +1,19 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
+- last_name: Техническая
+  first_name: поддержка
+  desc: проблемы с сайтом
   website: https://www.google.com
-  email: ceo@google.com
+  email: startstretchsport@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Контакты
+  first_name: для связи
+  desc: запись на занятия
+  website: https://sport-start.github.io/
+  email: sport.start.67@yandex.ru
+  telephone: +79101160316
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: ВФЭГ
+  first_name: 
+  desc: Всеросийская федерация этетической гимнастики
+  website: https://vfeg.ru/
+  email: savoylyuk@vfeg.ru

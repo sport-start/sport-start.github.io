@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Расписание
   i18n: timetable
-  url: /classes/
+  url: /classes/2018/10/26/classes-timetable.html
   #gh_user: sport-start
   #repo: sport-start
   img: /static/assets/img/landing/img-timeline.svg
