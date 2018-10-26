@@ -1,6 +1,6 @@
 ---
 published: 'true'
-title: С занятий
+title: Фотографии с занятий
 date: 2018-03-03T08:22:00.000Z
 categories:
   - Gallery

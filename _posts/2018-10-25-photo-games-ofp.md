@@ -1,6 +1,6 @@
 ---
 published: 'true'
-title: Соревнования по ОФП
+title: Фотографии с соревнований по ОФП
 date: 2018-03-03T08:20:00.000Z
 categories:
   - Gallery
