@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Расписание
   i18n: timetable
-  url: /contacts/
+  url: /classes/
   #gh_user: sport-start
   #repo: sport-start
   img: /static/assets/img/landing/img-timeline.svg
@@ -13,11 +13,12 @@
   i18n: gallery
   #gh_user: sport-start
   #repo: sport-start
+  url: /gallery/
   img: /static/assets/img/landing/img-galery.png
   desc: Фотографии, видео с занятиями и мероприятиями.
 
 - name: Реквизиты
   i18n: requisite
-  url: https://google.com
+  url: /contacts/
   img: /static/assets/img/landing/img-req-blue.svg
   desc: Реквизиты для оплаты.
